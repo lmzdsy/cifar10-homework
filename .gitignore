@@ -1,0 +1,9 @@
+# 数据集与缓存（不提交）
+data/
+train_wrn_log.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# 训练中的临时文件（最终权重单独提交）
